@@ -1,0 +1,7 @@
+# regenerable intermediates (rebuilt by 02_ and 03_ in seconds)
+results/tables/baseline_snn.rds
+results/tables/CD8.cell_labels.csv.gz
+data/
+*.tar.gz
+.Rhistory
+__pycache__/
