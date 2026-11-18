@@ -1,0 +1,2 @@
+arm,setting,n_clusters,ari_raw36_mini,ari_meta17_mini,ari_raw36_cell,ari_meta17_cell
+algorithm,hclust_ward,36,0.317697747859607,0.239884719552087,0.33244210748217,0.249909411996813

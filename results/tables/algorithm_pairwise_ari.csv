@@ -1,0 +1,11 @@
+a,b,ari
+gmm_mclust_VVI,hclust_ward,0.255404808917297
+gmm_mclust_VVI,kmeans,0.285757935331688
+gmm_mclust_VVI,leiden_igraph,0.3206188795276
+gmm_mclust_VVI,louvain_baseline,0.325531697258557
+hclust_ward,kmeans,0.396913194154687
+hclust_ward,leiden_igraph,0.427905881422708
+hclust_ward,louvain_baseline,0.438548467290837
+kmeans,leiden_igraph,0.421493177030363
+kmeans,louvain_baseline,0.433410820554688
+leiden_igraph,louvain_baseline,0.936379699158669

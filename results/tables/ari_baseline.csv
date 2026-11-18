@@ -1,0 +1,2 @@
+arm,setting,n_clusters,ari_raw36_mini,ari_meta17_mini,ari_raw36_cell,ari_meta17_cell
+baseline,"npc=15,k=20,res=2,seed=1",36,0.495628136686041,0.362276128505479,0.512575938444214,0.376807000223719

@@ -1,0 +1,2 @@
+arm,setting,n_clusters,ari_raw36_mini,ari_meta17_mini,ari_raw36_cell,ari_meta17_cell
+algorithm,gmm_mclust_VVI,36,0.297516853193537,0.245230266128813,0.304171684124202,0.24560860643971
